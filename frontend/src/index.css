@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Bree Serif", serif;
+  letter-spacing: 0.025em;
+}
